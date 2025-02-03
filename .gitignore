@@ -2,3 +2,5 @@
 /.venv/
 /.idea/
 !/config/*_template.py
+*.py~
+*/__pycache__/
