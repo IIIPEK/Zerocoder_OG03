@@ -1,4 +1,4 @@
-from shape_abstract import Shape
+from classes.shape_abstract import Shape
 
 class Square(Shape):
     def __init__(self, side):
